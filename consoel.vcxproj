@@ -140,6 +140,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="consoel.cpp" />
+    <ClCompile Include="console.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="console.h" />
